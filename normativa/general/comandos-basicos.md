@@ -14,7 +14,7 @@ Ejemplo: _/do El banco está casi vacío, solo se ve un guardia en la entrada._
 
 ## /911
 
-Sirve para solicitar la presencia de las fuerzas de policial.
+Sirve para solicitar la presencia de las fuerzas policiales.
 
 Ejemplo de uso: _Si ves un robo, un tiroteo o una actividad sospechosa._
 
