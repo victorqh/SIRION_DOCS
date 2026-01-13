@@ -1,16 +1,44 @@
 # POLICIA
 
-## 👮 DESCRIPCIÓN
+## � REQUISITOS
 
-El Cuerpo de Policía de SIRION es responsable de mantener el orden público, hacer cumplir la ley y proteger a los ciudadanos. Como oficial, tu deber es actuar con profesionalismo, respeto y apego a la normativa vigente.
+* 50+ horas de juego
+* Conocer normativa y código penal
+* Sin sanciones activas
+* Pasar entrevista y formación
 
-## 📋 REQUISITOS PARA APLICAR
+## 🎯 FUNCIONES
 
-* [x] Tener al menos **50 horas** de juego en el servidor
-* [x] Conocimiento completo de la **normativa general** y el **código penal**
-* [x] No tener sanciones activas en tu historial
-* [x] Pasar la entrevista con el departamento de reclutamiento
-* [x] Completar el período de formación como cadete
+* Patrullar y responder a /911
+* Detener criminales
+* Investigar delitos
+* Negociar en situaciones de rehenes
+
+## ⚖️ PROTOCOLO BASICO
+
+1. **Respetar derechos** - Informar cargos, permitir abogado
+2. **Uso progresivo de fuerza** - Palabra → Táser → Arma (solo si hay amenaza)
+3. **No abusar del poder** - Sin detenciones arbitrarias
+4. **Prioridad en negociaciones** - Vida de rehenes primero
+
+## 💼 RANGOS
+
+| Rango | Función |
+|-------|----------|
+| Cadete | En formación |
+| Oficial I-III | Patrullaje y operativos |
+| Sargento | Supervisión de turnos |
+| Teniente/Capitán | Coordinación y gestión |
+| Jefe | Máxima autoridad |
+
+## ⛔ PROHIBIDO
+
+* Corromperse sin autorización admin
+* Usar info OOC para detenciones
+* Disparar a sospechosos sin amenaza
+* Filtrar info policial
+
+**Salario:** $2,500 cada 30 min + bonos
 
 ## 🎯 RESPONSABILIDADES
 

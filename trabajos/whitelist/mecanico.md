@@ -1,16 +1,50 @@
 # MECANICO
 
-## 🔧 DESCRIPCIÓN
+## 🔧 REQUISITOS
 
-Los mecánicos son esenciales para mantener los vehículos de la ciudad en óptimas condiciones. Como mecánico, no solo reparas autos, sino que también puedes personalizar vehículos, realizar tunning y crear un negocio próspero.
+* 30+ horas de juego
+* Conocimiento básico de vehículos
+* Sin sanciones activas
+* Pasar entrevista y prueba de 1 semana
 
-## 📋 REQUISITOS PARA APLICAR
+## 🎯 FUNCIONES
 
-* [x] Tener al menos **30 horas** de juego en el servidor
-* [x] Conocimiento básico sobre vehículos y mecánica
-* [x] No tener sanciones activas en tu historial
-* [x] Pasar la entrevista con el jefe del taller
-* [x] Período de prueba de 1 semana
+* Reparar vehículos dañados
+* Modificaciones y tunning
+* Servicio de grúa
+* Facturar servicios
+
+## 🔩 ROL DE REPARACIÓN
+
+**Ejemplo rápido:**
+```
+/me abre el capó del vehículo
+/me inspecciona el motor
+/do El radiador está agrietado
+/me reemplaza el radiador dañado
+/me arranca el motor para verificar
+/do El motor funciona perfectamente
+```
+
+## 💰 PRECIOS REFERENCIALES
+
+| Servicio | Precio |
+|----------|--------|
+| Reparación básica | $300-$800 |
+| Reparación motor | $1,500-$3,000 |
+| Carrocería completa | $2,000-$5,000 |
+| Servicio grúa | $500-$1,500 |
+| Pintura custom | $1,000-$3,000 |
+| Mejora motor | $2,000-$10,000 |
+
+## ⛔ PROHIBIDO
+
+* Blindar vehículos sin permiso admin
+* Modificar vehículos policiales sin autorización
+* Desguazar vehículos robados
+* Usar grúa para actividades ilegales
+
+**Salario:** $1,500 cada 30 min + cobros a clientes
 
 ## 🎯 RESPONSABILIDADES
 

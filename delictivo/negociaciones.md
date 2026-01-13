@@ -5,9 +5,45 @@ coverY: 0
 
 # NEGOCIACIONES
 
-Las negociaciones son momentos críticos donde criminales y policías deben dialogar para resolver situaciones de rehenes, asedios o atracos. Estas situaciones requieren **madurez, paciencia y respeto** por el rol de ambas partes.
+## 📜 REGLAS BÁSICAS
 
-## ⚖️ REQUISITOS GENERALES
+* **1 negociador por bando** (criminal y policía)
+* El resto del grupo **NO** debe interrumpir
+* Demandas deben ser **realistas**
+* Mantener el rol, sin toxicidad OOC
+
+## ✅ DEMANDAS PERMITIDAS
+
+* Vehículo de escape (no blindado)
+* Tiempo de ventaja (2-5 minutos)
+* Paso libre sin disparos
+* Reducción de cargos
+
+## ❌ DEMANDAS PROHIBIDAS
+
+* Armas o explosivos
+* Vehículos militares/blindados
+* No persecución permanente
+* Info policial confidencial
+
+## 💡 CONSEJOS
+
+**Criminales:**
+* Planifica antes de empezar
+* Sé flexible, las negociaciones implican ceder
+* Los rehenes son tu única carta, no los mates sin razón
+
+**Policía:**
+* Prioridad: vida de los rehenes
+* Sé paciente
+* Cumple tu palabra
+
+## ⚠️ CONSECUENCIAS
+
+Si alguna parte rompe la negociación sin razón válida:
+* Policía puede iniciar operativo táctico
+* Criminales pueden actuar en defensa
+* Staff puede sancionar
 
 ### Para Criminales
 

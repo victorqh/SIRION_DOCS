@@ -1,23 +1,47 @@
 # ROBO A TIENDAS
 
-## 📋 REQUISITOS MÍNIMOS
+## � REQUISITOS
 
-### Participantes
-* **Cantidad permitida:** 1 a 4 personas
-* **Comunicación:** Todos deben estar coordinados (radio, Discord de voz, etc.)
-* **Roles definidos:** Líder, vigilante, negociador, conductor
+* **Participantes:** 1 a 4 personas
+* **Vehículos:** Mínimo 1 auto de 4 ruedas
+* **Policías en servicio:** Mínimo 3 activos
+* **Armas:** Al menos 1 para amenazar
 
-### Vehículos
-* **Mínimo:** 1 automóvil de 4 ruedas
-* **Recomendado:** Vehículo rápido pero no llamativo
-* **Prohibido:** Vehículos policiales, blindados militares
+## ✅ CÓMO HACERLO
 
-### Equipamiento
-* **Armas:** Al menos 1 arma de fuego para amenazar al cajero
-* **Comunicación:** Radio o teléfono para coordinar
-* **Opcional:** Máscaras/pasamontañas para ocultar identidad
+1. **Verificar** que hay 3+ policías (usa `/polis`)
+2. **Planificar** ruta de escape
+3. **Entrar** con máscara/pasamontañas
+4. **Amenazar** al cajero y usar comando `/robar`
+5. **Decidir:** ¿Matar o no matar al cajero?
+6. **Escapar** con el dinero
 
-## ✅ CONDICIONES PREVIAS
+## ⚠️ CONSECUENCIAS
+
+### SI MATAS AL CAJERO
+* Policía usará **fuerza letal** desde el inicio
+* Tienes 30 segundos para prepararte
+* Cargos: Homicidio + Robo ($8,000 + 30 min)
+
+### SI NO LO MATAS
+* Puedes **negociar** si te rodean
+* Opción de tomar rehén
+* Cargos: Solo robo ($2,000 + 10 min)
+
+## 💰 RECOMPENSA
+
+$3,000 - $6,000 (dividir entre participantes)
+
+## ❌ PROHIBIDO
+
+* Robar sin 3+ policías
+* Robar la misma tienda repetidamente
+* Usar vehículos ilegales (tanques, aviones)
+* Matar al cajero sin razón
+
+{% hint style="warning" %}
+**Importante:** No hagas "robo spam". Espacia tus actividades ilegales para mejor rol.
+{% endhint %}
 
 ### Antes de Iniciar el Robo
 

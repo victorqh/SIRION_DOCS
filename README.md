@@ -5,24 +5,19 @@ coverY: 0
 
 # ⭐ ¿QUÉ ES SIRION?
 
-**SIRION** es una variación de **Sirio**, adoptada para representar el concepto de ser una **luz guía** dentro del mundo de **GTA V Roleplay**, un servidor que se destaca por su claridad en las reglas, la organización y el compromiso con una experiencia de juego inmersiva.
+**SIRION** es un servidor de **GTA V Roleplay** enfocado en **roleplay serio**, reglas claras y una comunidad comprometida.
 
-## 🎯 Nuestra Filosofía
+## 🎯 Lo Que Nos Define
 
-En SIRION creemos que el roleplay de calidad nace del **respeto mutuo** y la **creatividad compartida**. No importa si eres policía, médico, criminal o civil, todos tienen un papel importante en construir historias memorables.
+* ✅ **Roleplay realista** - Interpretación coherente y creativa
+* ✅ **Reglas claras** - Normativa transparente y justa
+* ✅ **Staff activo** - Soporte constante y profesional
+* ✅ **Economía balanceada** - Progresión justa
 
-### ¿Qué nos hace diferentes?
+## 🚀 Únete
 
-* **Roleplay serio y realista** - Valoramos la interpretación coherente y las historias bien desarrolladas
-* **Normativa clara** - Reglas transparentes que todos pueden entender y seguir
-* **Comunidad activa** - Staff dedicado y jugadores comprometidos con el rol
-* **Economía balanceada** - Sistema económico justo que premia el esfuerzo y la creatividad
-* **Constante evolución** - Actualizaciones regulares basadas en el feedback de la comunidad
-
-## 🚀 Comienza Tu Aventura
-
-¿Listo para formar parte de nuestra comunidad? Consulta la sección [**PREGUNTAS FRECUENTES**](preguntas-frecuentes/unirse.md) para aprender cómo unirte al servidor.
+Lee la [**normativa**](normativa/general/) y sigue los pasos en [**UNIRSE**](preguntas-frecuentes/unirse.md).
 
 {% hint style="info" %}
-Recuerda leer toda la normativa antes de comenzar. El conocimiento de las reglas es fundamental para disfrutar al máximo de la experiencia.
+Lee las reglas antes de jugar para evitar sanciones.
 {% endhint %}

@@ -1,16 +1,53 @@
 # BOMBERO
 
-## 🚒 DESCRIPCIÓN
+## 🚒 REQUISITOS
 
-El Cuerpo de Bomberos es responsable de la prevención y extinción de incendios, rescates en situaciones de emergencia y asistencia en desastres. Como bombero, tu valentía y rapidez pueden salvar vidas y propiedades.
+* 35+ horas de juego
+* Conocimiento de protocolos de emergencia
+* Sin sanciones activas
+* Superar pruebas y entrenamiento
 
-## 📋 REQUISITOS PARA APLICAR
+## 🎯 FUNCIONES
 
-* [x] Tener al menos **35 horas** de juego en el servidor
-* [x] Conocimiento de protocolos de emergencia y rescate
-* [x] No tener sanciones activas en tu historial
-* [x] Superar las pruebas físicas y teóricas
-* [x] Completar el entrenamiento como bombero aprendiz
+* Extinguir incendios
+* Rescate de personas atrapadas
+* Rescate vehicular (accidentes)
+* Primeros auxilios básicos
+
+## 🔥 PROTOCOLO DE INCENDIO
+
+1. Evaluar la escena y riesgos
+2. Establecer perímetro seguro
+3. Conectar mangueras
+4. Extinguir desde exterior hacia interior
+5. Búsqueda y rescate (en parejas)
+6. Revisión final
+
+## 🚨 TIPOS DE INCENDIO
+
+* **Clase A** (Sólidos) - Usar agua
+* **Clase B** (Líquidos) - Espuma/CO2 (NUNCA agua)
+* **Clase C** (Eléctricos) - CO2/Polvo (NUNCA agua)
+* **Clase D** (Metales) - Polvo especial
+
+## 💼 RANGOS
+
+| Rango | Función |
+|-------|----------|
+| Aprendiz | En formación |
+| Bombero | Combate incendios |
+| Especialista | Rescates complejos |
+| Oficial/Teniente | Liderazgo |
+| Capitán/Jefe | Gestión y estrategia |
+
+## ⛔ PROHIBIDO
+
+* Usar equipo para fines personales
+* Provocar incendios
+* Ignorar llamadas de emergencia
+* Entrar a zonas peligrosas sin equipo
+
+**Salario:** $1,800 cada 30 min + bonos por rescates
 
 ## 🎯 RESPONSABILIDADES
 

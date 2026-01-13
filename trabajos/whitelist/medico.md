@@ -1,16 +1,55 @@
 # MEDICO
 
-## 🏥 DESCRIPCIÓN
+## 🏭 REQUISITOS
 
-El Servicio Médico de Emergencias (EMS) es vital para la salud y seguridad de los ciudadanos de SIRION. Como paramédico, tu misión es salvar vidas, proporcionar atención médica de calidad y mantener el profesionalismo en situaciones críticas.
+* 40+ horas de juego
+* Conocimiento básico de terminología médica
+* Sin sanciones activas
+* Pasar entrevista y formación
 
-## 📋 REQUISITOS PARA APLICAR
+## 🎯 FUNCIONES
 
-* [x] Tener al menos **40 horas** de juego en el servidor
-* [x] Conocimiento básico de terminología médica y procedimientos de emergencia
-* [x] No tener sanciones activas en tu historial
-* [x] Pasar la entrevista con el departamento médico
-* [x] Completar el período de formación como aprendiz
+* Responder a /911ems
+* Estabilizar y transportar heridos
+* Realizar cirugías (con rol detallado)
+* Mantener neutralidad (atender a todos: civiles, policía, criminales)
+
+## 💉 PROTOCOLO
+
+**Prioridades (Triage):**
+* 🔴 Crítico - Paro cardíaco, hemorragia masiva
+* 🟠 Urgente - Fracturas graves, inconsciencia
+* 🟡 Semi-urgente - Heridas moderadas
+* 🟢 No urgente - Cortes menores
+
+## 🚑 ROL MÉDICO
+
+**Ejemplo rápido:**
+```
+/me examina la herida de bala
+/do La bala está alojada en el hombro
+/me extrae la bala con pinzas
+/me sutura la herida
+/me venda el área y administra antibióticos
+```
+
+## 💼 RANGOS
+
+| Rango | Función |
+|-------|----------|
+| Aprendiz | En formación |
+| Paramédico I-III | Atención y cirugías |
+| Enfermero Jefe | Supervisión |
+| Doctor/Director | Casos críticos y gestión |
+
+## ⛔ IMPORTANTE
+
+* **SIEMPRE** hacer rol antes de /revivir
+* Atender a criminales con profesionalismo
+* NO filtrar info a policía
+* Mantener neutralidad absoluta
+
+**Salario:** $2,000 cada 30 min + cobros opcionales
 
 ## 🎯 RESPONSABILIDADES
 
