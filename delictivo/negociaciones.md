@@ -3,28 +3,35 @@ cover: ../.gitbook/assets/negotiation.jpg
 coverY: 0
 ---
 
-# NEGOCIACIONES
+# 🤝 NEGOCIACIONES
 
-## 📜 REGLAS BÁSICAS
+> El arte de dialogar en situaciones críticas
 
-* **1 negociador por bando** (criminal y policía)
-* El resto del grupo **NO** debe interrumpir
-* Demandas deben ser **realistas**
-* Mantener el rol, sin toxicidad OOC
+---
 
-## ✅ DEMANDAS PERMITIDAS
+## 📜 REGLAS DE ORO
 
-* Vehículo de escape (no blindado)
-* Tiempo de ventaja (2-5 minutos)
-* Paso libre sin disparos
-* Reducción de cargos
+<table>
+  <tr>
+    <td>✅ <b>1 negociador</b> por bando</td>
+    <td>✅ Demandas <b>realistas</b></td>
+  </tr>
+  <tr>
+    <td>🔇 El resto <b>NO interrumpe</b></td>
+    <td>🎭 Mantener el <b>rol serio</b></td>
+  </tr>
+</table>
 
-## ❌ DEMANDAS PROHIBIDAS
+---
 
-* Armas o explosivos
-* Vehículos militares/blindados
-* No persecución permanente
-* Info policial confidencial
+## ✅ PERMITIDO | ❌ PROHIBIDO
+
+| ✅ Puedes Pedir | ❌ No Puedes Pedir |
+|----------------|------------------|
+| Vehículo de escape | Armas o explosivos |
+| Tiempo de ventaja (2-5 min) | Vehículos blindados |
+| Paso libre sin disparos | No persecución permanente |
+| Reducción de cargos | Info policial confidencial |
 
 ## 💡 CONSEJOS
 

@@ -1,11 +1,17 @@
-# MECANICO
+# 🔧 MECÁNICO
 
-## 🔧 REQUISITOS
+> Mantén los vehículos de la ciudad en perfecto estado
 
-* 30+ horas de juego
-* Conocimiento básico de vehículos
-* Sin sanciones activas
-* Pasar entrevista y prueba de 1 semana
+---
+
+## ✅ REQUISITOS DE INGRESO
+
+| Requisito | Descripción |
+|-----------|-------------|
+| ⏱️ **Horas** | 30+ horas de juego |
+| 📖 **Conocimiento** | Básico de vehículos y mecánica |
+| ✔️ **Historial** | Sin sanciones activas |
+| 🎓 **Proceso** | Entrevista + Prueba de 1 semana |
 
 ## 🎯 FUNCIONES
 

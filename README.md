@@ -3,21 +3,33 @@ cover: .gitbook/assets/Piotr-Wieczorek-_D3X1400-kopia_1511471086.webp
 coverY: 0
 ---
 
-# ⭐ ¿QUÉ ES SIRION?
+# ⭐ BIENVENIDO A SIRION
 
-**SIRION** es un servidor de **GTA V Roleplay** enfocado en **roleplay serio**, reglas claras y una comunidad comprometida.
+> **Tu luz guía en el mundo del GTA V Roleplay**
 
-## 🎯 Lo Que Nos Define
+**SIRION** es un servidor de roleplay serio donde cada historia importa. Nos destacamos por nuestra claridad en las reglas, organización impecable y compromiso con una experiencia inmersiva.
 
-* ✅ **Roleplay realista** - Interpretación coherente y creativa
-* ✅ **Reglas claras** - Normativa transparente y justa
-* ✅ **Staff activo** - Soporte constante y profesional
-* ✅ **Economía balanceada** - Progresión justa
+---
 
-## 🚀 Únete
+## 🌟 Lo Que Nos Hace Únicos
 
-Lee la [**normativa**](normativa/general/) y sigue los pasos en [**UNIRSE**](preguntas-frecuentes/unirse.md).
+<table>
+  <tr>
+    <td align="center">🎭<br><b>Roleplay Serio</b><br>Interpretación realista</td>
+    <td align="center">📋<br><b>Reglas Claras</b><br>Normativa transparente</td>
+    <td align="center">👥<br><b>Staff Activo</b><br>Soporte 24/7</td>
+    <td align="center">💰<br><b>Economía Justa</b><br>Progresión equilibrada</td>
+  </tr>
+</table>
 
-{% hint style="info" %}
-Lee las reglas antes de jugar para evitar sanciones.
+---
+
+## 🚀 Comienza Tu Aventura
+
+1. 📖 Lee la [**NORMATIVA GENERAL**](normativa/general/)
+2. 🎮 Sigue los pasos en [**CÓMO UNIRSE**](preguntas-frecuentes/unirse.md)
+3. 🎭 ¡Crea tu personaje y sumérgete en el rol!
+
+{% hint style="success" %}
+💡 **Consejo:** Familiarízate con las reglas antes de comenzar para disfrutar al máximo tu experiencia.
 {% endhint %}

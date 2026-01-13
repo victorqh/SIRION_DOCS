@@ -1,16 +1,24 @@
-# COMANDOS BÁSICOS
+# 🎮 COMANDOS BÁSICOS
 
-## /ME
+> Herramientas esenciales para el roleplay
 
-Se utiliza para describir acciones de tu personaje en tercera persona.
+---
 
-Ejemplo: _/me saca su arma y la inspecciona cuidadosamente._
+## 🎭 `/ME` - Acciones del Personaje
 
-## /DO
+Describe **acciones** de tu personaje en tercera persona.
 
-Permite dar información extra sobre el entorno o el estado de la escena.
+```
+💡 Ejemplo: /me saca su arma y la inspecciona cuidadosamente
+```
 
-Ejemplo: _/do El banco está casi vacío, solo se ve un guardia en la entrada._
+## 🌍 `/DO` - Descripción del Entorno
+
+Permite añadir **información del entorno** o estado de la escena.
+
+```
+💡 Ejemplo: /do El banco está casi vacío, solo se ve un guardia en la entrada
+```
 
 ## /911
 

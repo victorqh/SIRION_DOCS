@@ -1,14 +1,17 @@
-# TÉRMINOS BÁSICOS
+# 📚 TÉRMINOS BÁSICOS
 
-## BÁSICOS
+> Glosario esencial para entender el roleplay
 
-**IC (In Character)** - Dentro del personaje, todo lo que pasa en el rol
+---
 
-**OOC (Out of Character)** - Fuera del personaje, usa `/ooc` en el chat
+## 🎭 CONCEPTOS FUNDAMENTALES
 
-**ROL PASIVO** - Actividades sin violencia (trabajar, socializar)
-
-**ROL ACTIVO** - Situaciones de acción (robos, persecuciones, conflictos)
+| Término | Significado |
+|---------|-------------|
+| **IC** (In Character) | 🎪 Dentro del personaje - Todo lo que pasa en el rol |
+| **OOC** (Out of Character) | 💬 Fuera del personaje - Usa `/ooc` en el chat |
+| **Rol Pasivo** | ☮️ Actividades sin violencia (trabajar, socializar) |
+| **Rol Activo** | ⚡ Situaciones de acción (robos, persecuciones) |
 
 ## PROHIBIDO ❌
 

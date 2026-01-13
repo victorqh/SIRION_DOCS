@@ -1,11 +1,17 @@
-# BOMBERO
+# 🚒 BOMBERO
 
-## 🚒 REQUISITOS
+> Combate incendios y realiza rescates heroicos
 
-* 35+ horas de juego
-* Conocimiento de protocolos de emergencia
-* Sin sanciones activas
-* Superar pruebas y entrenamiento
+---
+
+## ✅ REQUISITOS DE INGRESO
+
+| Requisito | Descripción |
+|-----------|-------------|
+| ⏱️ **Horas** | 35+ horas de juego |
+| 📖 **Conocimiento** | Protocolos de emergencia |
+| ✔️ **Historial** | Sin sanciones activas |
+| 🎓 **Proceso** | Pruebas + Entrenamiento completo |
 
 ## 🎯 FUNCIONES
 

@@ -1,11 +1,17 @@
-# POLICIA
+# 👮 POLICÍA
 
-## � REQUISITOS
+> Mantén el orden y protege a los ciudadanos de SIRION
 
-* 50+ horas de juego
-* Conocer normativa y código penal
-* Sin sanciones activas
-* Pasar entrevista y formación
+---
+
+## ✅ REQUISITOS DE INGRESO
+
+| Requisito | Descripción |
+|-----------|-------------|
+| ⏱️ **Horas** | 50+ horas de juego |
+| 📖 **Conocimiento** | Normativa y código penal completo |
+| ✔️ **Historial** | Sin sanciones activas |
+| 🎓 **Proceso** | Entrevista + Formación como cadete |
 
 ## 🎯 FUNCIONES
 

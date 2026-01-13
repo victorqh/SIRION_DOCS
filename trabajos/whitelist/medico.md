@@ -1,11 +1,17 @@
-# MEDICO
+# 🏥 MÉDICO / EMS
 
-## 🏭 REQUISITOS
+> Salva vidas y brinda atención médica profesional
 
-* 40+ horas de juego
-* Conocimiento básico de terminología médica
-* Sin sanciones activas
-* Pasar entrevista y formación
+---
+
+## ✅ REQUISITOS DE INGRESO
+
+| Requisito | Descripción |
+|-----------|-------------|
+| ⏱️ **Horas** | 40+ horas de juego |
+| 📖 **Conocimiento** | Terminología médica básica |
+| ✔️ **Historial** | Sin sanciones activas |
+| 🎓 **Proceso** | Entrevista + Formación |
 
 ## 🎯 FUNCIONES
 
