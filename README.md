@@ -15,10 +15,10 @@ coverY: 0
 
 <table>
   <tr>
-    <td align="center"><br><b>Roleplay</b><br>Interpretación realista</td>
-    <td align="center"><br><b>Reglas Claras</b><br>Normativa transparente</td>
-    <td align="center"><br><b>Staff Activo</b><br>Soporte 24/7</td>
-    <td align="center"><br><b>Economía Justa</b><br>Progresión equilibrada</td>
+    <td align="center"><b>Roleplay</b><br>Interpretación realista</td>
+    <td align="center"><b>Reglas Claras</b><br>Normativa transparente</td>
+    <td align="center"><b>Staff Activo</b><br>Soporte 24/7</td>
+    <td align="center"><b>Economía Justa</b><br>Progresión equilibrada</td>
   </tr>
 </table>
 
