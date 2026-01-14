@@ -13,17 +13,12 @@ El **entorno** es todo lo que rodea al personaje: personas, objetos, vehículos,
 * **Cámaras de seguridad** - Bancos y tiendas tienen cámaras funcionando
 * **Ser lógico** - No abusar del entorno para beneficiarse
 
-## ZONAS
-
-**Públicas** (Calles, plazas, tiendas): Más testigos, más riesgo
-**Privadas** (Callejones, bosques): Menos testigos, más libertad
-
 ## COMANDOS
 
 **/do** - Describe el entorno
 * Ejemplo: `/do no tendría ni un centavo en la billetera`
 
-**/entorno** - Añade detalles a la escena
+**/entorno** - Añade detalles a la escena en tercera persona
 * Ejemplo: `/entorno Auxilio Policias dos sujetos están discutiendo en la Plaza Cubos`
 
 {% hint style="warning" %}

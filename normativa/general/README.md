@@ -15,9 +15,9 @@ coverY: 140.52320675105486
 
 ## El Principio Fundamental
 
-### Valorar la Vida
+### Valorar vida
 
-Este es el pilar de cualquier Roleplay serio. **Tu personaje debe actuar con el mismo miedo, precaución y sentido común que tendrías en la vida real.**
+Valorar tu vida y la vida de los demás. **Tu personaje debe actuar con el mismo miedo, precaución y sentido común que tendrías en la vida real.**
 
 {% hint style="info" %}
 **Ejemplos prácticos:**
