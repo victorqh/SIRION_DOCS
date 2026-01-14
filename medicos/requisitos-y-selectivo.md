@@ -165,28 +165,6 @@ Si no apruebas en los 3 intentos, no podrás volver a aplicar al EMS con ese per
 
 ---
 
-## Preguntas Frecuentes
-
-### ¿Cuánto dura el proceso?
-
-* **Prueba teórica:** 15-20 minutos
-* **Prueba práctica:** 30-45 minutos
-* **Total:** Aproximadamente 1 hora
-
-### ¿Necesito experiencia médica OOC?
-
-No. El selectivo evalúa tu capacidad de roleplay y conocimiento de la normativa del servidor, no conocimientos médicos reales.
-
-### ¿Puedo aplicar con antecedentes?
-
-Depende de la gravedad. Antecedentes leves pueden ser considerados, pero antecedentes graves (de grado medio hacia arriba) descalifican automáticamente.
-
-### ¿Hay cupos limitados?
-
-Sí. El EMS tiene un límite de miembros activos. Si está lleno, deberás esperar a que se abran nuevas oposiciones.
-
----
-
 ## Después de Aprobar
 
 ### Primeros Pasos
