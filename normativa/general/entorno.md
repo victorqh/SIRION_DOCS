@@ -17,10 +17,10 @@ El **entorno** es todo lo que rodea a tu personaje: personas, objetos, vehículo
 ## COMANDOS
 
 **/do** - Describe el entorno
-* Ejemplo: `/do Hay una cámara en la entrada`
+* Ejemplo: `/do no tendría ni un centavo en la billetera`
 
 **/entorno** - Añade detalles a la escena
-* Ejemplo: `/entorno El edificio está abandonado`
+* Ejemplo: `/entorno Auxilio Policias dos sujetos estan discutiendo en la Plaza Cubos`
 
 {% hint style="warning" %}
 No uses /do para hacer PowerGaming. Sé realista.

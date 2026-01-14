@@ -31,16 +31,6 @@
 
 **CombatLog** - Desconectarse en medio de un rol activo
 
-## OBLIGATORIO ✅
-
-**FearRP** - Valorar tu vida, si te apuntan coopera
-
-**PainRP** - Reaccionar al dolor de forma realista
-
-**NLR (New Life Rule)** - Si mueres, olvidas los últimos 10-15 minutos
-
-## OTROS
-
 **CK (Character Kill)** - Muerte permanente del personaje (requiere permiso admin)
 
 **Safezone** - Zonas sin rol violento (hospital, comisaría)
