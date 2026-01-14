@@ -32,10 +32,22 @@
   * [DISCIPLINA Y SANCIONES](policia/disciplina-y-sanciones.md)
   * [CÓDIGO PENAL POLICIAL](policia/codigo-penal-policial.md)
 
+## 🏥 MEDICOS
+
+* [INTRODUCCIÓN](medicos/README.md)
+  * [REQUISITOS Y SELECTIVO](medicos/requisitos-y-selectivo.md)
+  * [RANGOS Y ESPECIALIZACIONES](medicos/rangos-y-especializaciones.md)
+  * [EN SERVICIO](medicos/en-servicio.md)
+  * [FUERA DE SERVICIO](medicos/fuera-de-servicio.md)
+  * [PROCEDIMIENTOS MÉDICOS](medicos/procedimientos-medicos.md)
+  * [EMERGENCIAS Y CÓDIGOS](medicos/emergencias-y-codigos.md)
+  * [EQUIPAMIENTO Y VEHÍCULOS](medicos/equipamiento-y-vehiculos.md)
+  * [DISCIPLINA Y SANCIONES](medicos/disciplina-y-sanciones.md)
+  * [MÉDICO NEGRO](medicos/medico-negro.md)
+
 ## TRABAJOS
 
 * [WHITELIST](trabajos/whitelist/README.md)
-  * [MEDICO](trabajos/whitelist/medico.md)
   * [MECANICO](trabajos/whitelist/mecanico.md)
   * [BOMBERO](trabajos/whitelist/bombero.md)
 * [NO WHITELIST](trabajos/no-whitelist/README.md)
