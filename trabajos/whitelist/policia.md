@@ -15,7 +15,7 @@
 
 ## 🎯 FUNCIONES
 
-* Patrullar y responder a /911
+* Patrullar y responder a alertas
 * Detener criminales
 * Investigar delitos
 * Negociar en situaciones de rehenes
@@ -51,7 +51,7 @@
 ### Patrullaje
 
 * Realizar rondas por la ciudad identificando actividades sospechosas
-* Responder a llamadas de emergencia (/911)
+* Responder a llamadas de emergencia
 * Asistir a civiles que requieran ayuda
 * Mantener presencia policial en zonas conflictivas
 

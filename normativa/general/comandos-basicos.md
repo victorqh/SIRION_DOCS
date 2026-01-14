@@ -20,13 +20,13 @@ Permite añadir **información del entorno** o estado de la escena.
 💡 Ejemplo: /do El banco está casi vacío, solo se ve un guardia en la entrada
 ```
 
-## /911
+## /entorno
 
 Sirve para solicitar la presencia de las fuerzas policiales.
 
 Ejemplo de uso: _Si ves un robo, un tiroteo o una actividad sospechosa._
 
-## /911ems
+## /auxilio
 
 Sirve para pedir asistencia médica (EMS)
 

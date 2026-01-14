@@ -15,7 +15,7 @@
 
 ## 🎯 FUNCIONES
 
-* Responder a /911ems
+* Responder a /auxilio
 * Estabilizar y transportar heridos
 * Realizar cirugías (con rol detallado)
 * Mantener neutralidad (atender a todos: civiles, policía, criminales)
@@ -61,7 +61,7 @@
 
 ### Atención de Emergencias
 
-* Responder a llamadas /911ems con rapidez
+* Responder a llamadas /auxilio con rapidez
 * Estabilizar pacientes en escena
 * Transportar heridos al hospital
 * Coordinar con policía en zonas peligrosas
