@@ -8,7 +8,7 @@ coverY: 140.52320675105486
 > La base de SIRION: Roleplay serio, respeto mutuo y convivencia sana
 
 {% hint style="danger" %}
-**Importante:** Toda infracción a esta normativa será evaluada y sancionada por el equipo de administración. Los reportes deben realizarse a través de nuestro Discord. [Comandos Básicos](regimen-disciplinario.md)
+**Importante:** Toda infracción a esta normativa será evaluada y sancionada por el equipo de administración. Los reportes deben realizarse a través de nuestro Discord. [RÉGIMEN DISCIPLINARIO](regimen-disciplinario.md)
 {% endhint %}
 
 ---
