@@ -5,7 +5,7 @@
 ## ❓ PREGUNTAS FRECUENTES
 
 * [UNIRSE](preguntas-frecuentes/unirse.md)
-* [EMS / MÉDICOS](preguntas-frecuentes/ems-medicos.md)
+* [TRABAJOS LEGALES](preguntas-frecuentes/facciones.md)
 
 ## NORMATIVA
 
