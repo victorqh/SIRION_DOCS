@@ -1,7 +1,3 @@
----
-description: Normas para mantener una comunidad sana y segura
----
-
 # CONVIVENCIA Y RESPETO
 
 > Normas para mantener una comunidad sana y segura

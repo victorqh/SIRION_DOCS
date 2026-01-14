@@ -1,7 +1,3 @@
----
-description: Herramientas esenciales para el roleplay
----
-
 # COMANDOS BÁSICOS
 
 > Herramientas esenciales para el roleplay
