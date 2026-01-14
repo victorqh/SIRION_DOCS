@@ -1,3 +1,7 @@
+---
+description: Requisitos para crear y interpretar tu personaje
+---
+
 # CREACION DE PERSONAJE E INTERPRETACION
 
 * [x] El nombre de tu personaje debe ser realista.
