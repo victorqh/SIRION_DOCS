@@ -19,10 +19,22 @@
   * [RÉGIMEN DISCIPLINARIO](normativa/general/regimen-disciplinario.md)
 * [CODIGO PENAL](normativa/codigo-penal.md)
 
+## 👮 POLICIA
+
+* [INTRODUCCIÓN](policia/README.md)
+  * [REQUISITOS Y FUNCIONES](policia/requisitos-y-funciones.md)
+  * [JERARQUÍA Y RANGOS](policia/jerarquia-y-rangos.md)
+  * [COMUNICACIÓN Y CÓDIGOS](policia/comunicacion-y-codigos.md)
+  * [PROCEDIMIENTOS](policia/procedimientos.md)
+  * [ARMAMENTO Y EQUIPAMIENTO](policia/armamento-y-equipamiento.md)
+  * [ROBOS Y EVENTOS](policia/robos-y-eventos.md)
+  * [INVESTIGACIONES Y CORRUPCIÓN](policia/investigaciones-y-corrupcion.md)
+  * [DISCIPLINA Y SANCIONES](policia/disciplina-y-sanciones.md)
+  * [CÓDIGO PENAL POLICIAL](policia/codigo-penal-policial.md)
+
 ## TRABAJOS
 
 * [WHITELIST](trabajos/whitelist/README.md)
-  * [POLICIA](trabajos/whitelist/policia.md)
   * [MEDICO](trabajos/whitelist/medico.md)
   * [MECANICO](trabajos/whitelist/mecanico.md)
   * [BOMBERO](trabajos/whitelist/bombero.md)
