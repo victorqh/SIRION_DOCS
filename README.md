@@ -11,7 +11,7 @@ coverY: 0
 
 ---
 
-## 🌟 Lo Que Nos Hace Únicos
+## Lo Que Nos Hace Únicos
 
 <table>
   <tr>
@@ -24,7 +24,7 @@ coverY: 0
 
 ---
 
-## 🚀 Comienza Tu Aventura
+## Comienza tu Aventura
 
 1. Lee la [**NORMATIVA GENERAL**](normativa/general/)
 2. Sigue los pasos en [**CÓMO UNIRSE**](preguntas-frecuentes/unirse.md)
