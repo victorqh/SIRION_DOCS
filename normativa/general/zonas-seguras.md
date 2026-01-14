@@ -89,23 +89,6 @@ En eventos especiales organizados por el staff, ciertas zonas pueden ser tempora
 
 ---
 
-## Consecuencias de Violación
-
-### Sanciones
-
-| Gravedad | Sanción |
-|----------|---------|
-| **Primera vez** | Advertencia + Posible revive de víctimas |
-| **Reincidente** | Ban temporal (24-48 horas) |
-| **Abuso repetido** | Ban extendido (7+ días) |
-| **Extremo** | Ban permanente |
-
-{% hint style="danger" %}
-**Agravante:** Si el incumplimiento incluye RDM (matar sin razón) en zona segura, la sanción será más severa.
-{% endhint %}
-
----
-
 ## Interpretación Correcta
 
 ### Lo que NO puedes hacer

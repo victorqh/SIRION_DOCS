@@ -183,41 +183,6 @@ El armamento está estrictamente regulado por rango. Ver [normativa de policía]
 
 ---
 
-## Sistema de Strikes para Facciones
-
-Las facciones pueden recibir strikes como grupo si sus miembros cometen errores reiterados.
-
-### Consecuencias por Strike
-
-| Strike | Consecuencia |
-|--------|--------------|
-| **1º Strike** | Advertencia al Jefe + Multa a tesorería |
-| **2º Strike** | Advertencia seria + Multa mayor |
-| **3º Strike** | Suspensión de actividades (3 días) o descenso de rango |
-| **4º Strike** | Disolución de facción o cambio de Jefe inmediato |
-
-{% hint style="warning" %}
-Los strikes de facción son independientes de los strikes individuales. Un miembro puede tener strikes personales y la facción strikes grupales.
-{% endhint %}
-
----
-
-## Disolución de Facciones
-
-Una facción puede ser disuelta por:
-
-* Acumulación de 4 strikes
-* Inactividad prolongada (más de 2 semanas sin justificación)
-* Comportamiento gravemente inadecuado del líder
-* Decisión administrativa por mal manejo
-
-### Proceso
-
-1. Advertencia previa (salvo casos graves)
-2. Periodo de corrección (7 días)
-3. Evaluación del staff
-4. Decisión final
-
 {% hint style="info" %}
 Los miembros de una facción disuelta pueden aplicar a otras facciones, pero deberán pasar nuevamente por el proceso de selección.
 {% endhint %}
