@@ -1,11 +1,8 @@
 ---
-description: Normativa completa del Servicio Médico de Emergencias (EMS) de SIRION
+description: Normativa completa del Servicio Médico de Emergencias (EMS)
 ---
 
 # SERVICIO MÉDICO DE EMERGENCIAS (EMS)
-
-> Facción dedicada a salvar vidas y brindar atención médica de calidad en SIRION
-
 ---
 
 ## Bienvenido al EMS de SIRION

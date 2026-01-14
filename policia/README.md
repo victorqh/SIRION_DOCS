@@ -3,9 +3,6 @@ description: Normativa completa de la Policía de SIRION
 ---
 
 # POLICIA
-
-> Facción de orden público dedicada a proteger a los ciudadanos de SIRION
-
 ---
 
 ## Bienvenido a la Policía de SIRION
