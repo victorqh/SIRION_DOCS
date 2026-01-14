@@ -1,6 +1,8 @@
-# CONVIVENCIA Y RESPETO
+---
+description: Normas para mantener una comunidad sana y segura
+---
 
-> Normas para mantener una comunidad sana y segura
+# CONVIVENCIA Y RESPETO
 
 ---
 

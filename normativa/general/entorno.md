@@ -19,7 +19,7 @@ El **entorno** es todo lo que rodea al personaje: personas, objetos, vehículos,
 * Ejemplo: `/do no tendría ni un centavo en la billetera`
 
 **/entorno** - Añade detalles a la escena en tercera persona
-* Ejemplo: `/entorno Auxilio Policias dos sujetos están discutiendo en la Plaza Cubos`
+* Ejemplo: `/entorno Se verían ingresando personas sospechosas a una tienda`
 
 {% hint style="warning" %}
 No usar /do para hacer PowerGaming. Ser realista.

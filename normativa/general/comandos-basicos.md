@@ -1,6 +1,8 @@
-# COMANDOS BÁSICOS
+---
+description: Herramientas esenciales para el roleplay
+---
 
-> Herramientas esenciales para el roleplay
+# COMANDOS BÁSICOS
 
 ---
 

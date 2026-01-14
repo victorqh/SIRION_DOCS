@@ -1,6 +1,8 @@
-# FACCIONES Y WHITELIST
+---
+description: Estructura, requisitos y responsabilidades
+---
 
-> Estructura, requisitos y responsabilidades
+# FACCIONES Y WHITELIST
 
 ---
 

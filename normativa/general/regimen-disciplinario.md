@@ -1,6 +1,8 @@
-# RÉGIMEN DISCIPLINARIO
+---
+description: Sistema de sanciones, strikes y apelaciones
+---
 
-> Sistema de sanciones, strikes y apelaciones
+# RÉGIMEN DISCIPLINARIO
 
 ---
 

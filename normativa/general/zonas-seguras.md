@@ -4,8 +4,6 @@ description: Áreas de convivencia pacífica sin rol agresivo
 
 # ZONAS SEGURAS
 
-> Áreas de convivencia pacífica sin rol agresivo
-
 ---
 
 ## Definición
