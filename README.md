@@ -26,10 +26,10 @@ coverY: 0
 
 ## 🚀 Comienza Tu Aventura
 
-1. 📖 Lee la [**NORMATIVA GENERAL**](normativa/general/)
-2. 🎮 Sigue los pasos en [**CÓMO UNIRSE**](preguntas-frecuentes/unirse.md)
-3. 🎭 ¡Crea tu personaje y sumérgete en el rol!
+1. Lee la [**NORMATIVA GENERAL**](normativa/general/)
+2. Sigue los pasos en [**CÓMO UNIRSE**](preguntas-frecuentes/unirse.md)
+3. ¡Crea tu personaje y sumérgete en el rol!
 
 {% hint style="success" %}
-💡 **Consejo:** Familiarízate con las reglas antes de comenzar para disfrutar al máximo tu experiencia.
+**Consejo:** Familiarízate con las reglas antes de comenzar para disfrutar al máximo tu experiencia.
 {% endhint %}
