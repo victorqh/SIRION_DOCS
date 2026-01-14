@@ -8,7 +8,7 @@ description: Herramientas esenciales para el roleplay
 
 ---
 
-## 🎭 `/ME` - Acciones del Personaje
+## `/ME` - Acciones del Personaje
 
 Describe **acciones** de tu personaje en tercera persona.
 
@@ -16,7 +16,7 @@ Describe **acciones** de tu personaje en tercera persona.
 💡 Ejemplo: /me saca su arma y la inspecciona cuidadosamente
 ```
 
-## 🌍 `/DO` - Descripción del Entorno
+## `/DO` - Descripción del Entorno
 
 Permite añadir **información del entorno** o estado de la escena.
 
@@ -24,13 +24,13 @@ Permite añadir **información del entorno** o estado de la escena.
 💡 Ejemplo: /do El banco está casi vacío, solo se ve un guardia en la entrada
 ```
 
-## /entorno
+##  `/entorno `
 
 Sirve para solicitar la presencia de las fuerzas policiales.
 
 Ejemplo de uso: _Si ves un robo, un tiroteo o una actividad sospechosa._
 
-## /auxilio
+##  `/auxilio `
 
 Sirve para pedir asistencia médica (EMS)
 
