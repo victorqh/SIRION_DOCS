@@ -5,9 +5,9 @@
 ## ❓ PREGUNTAS FRECUENTES
 
 * [UNIRSE](preguntas-frecuentes/unirse.md)
-* [TRABAJOS LEGALES](preguntas-frecuentes/facciones.md)
+* [EMS / MÉDICOS](preguntas-frecuentes/ems-medicos.md)
 
-## NORMATIVA
+## ⚖️ NORMATIVA
 
 * [GENERAL](normativa/general/README.md)
   * [CREACION DE PERSONAJE E INTERPRETACION](normativa/general/creacion-de-personaje-e-interpretacion.md)
@@ -46,15 +46,15 @@
   * [DISCIPLINA Y SANCIONES](medicos/disciplina-y-sanciones.md)
   * [MÉDICO NEGRO](medicos/medico-negro.md)
 
-## TRABAJOS
+## 💼 TRABAJOS
 
 * [WHITELIST](trabajos/whitelist/README.md)
   * [MECANICO](trabajos/whitelist/mecanico.md)
   * [BOMBERO](trabajos/whitelist/bombero.md)
 * [NO WHITELIST](trabajos/no-whitelist/README.md)
-  * [Page 1](trabajos/no-whitelist/page-1.md)
+  * [TRABAJOS BÁSICOS](trabajos/no-whitelist/trabajos-basicos.md)
 
-## DELICTIVO
+## 🔫 DELICTIVO
 
 * [PRINCIPIOS GENERALES](delictivo/principios-generales.md)
 * [ACCIONES ILEGALES](delictivo/acciones-ilegales/README.md)
