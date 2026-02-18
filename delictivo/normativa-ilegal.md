@@ -33,7 +33,7 @@ El rol repetitivo, vacío o sin narrativa será observado y sancionado. El objet
 
 Antes de realizar cualquier robo debes:
 
-1. Verificar la cantidad de **policías en servicio** (`/polis`)
+1. Verificar la cantidad de **policías en servicio**
 2. Enviar un **entorno descriptivo** indicando la cantidad de participantes
 3. Respetar la **tabla de inferioridad numérica**
 
