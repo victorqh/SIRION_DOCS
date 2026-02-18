@@ -71,7 +71,7 @@ Las zonas rojas permiten alargar e intensificar los roles, pero siempre dentro d
 
 ## 3. Robos y Eventos Criminales
 
-### 2.1. Requisitos generales
+### 3.1. Requisitos generales
 
 Antes de realizar cualquier robo debes:
 
@@ -79,7 +79,7 @@ Antes de realizar cualquier robo debes:
 2. Enviar un **entorno descriptivo** indicando la cantidad de participantes
 3. Respetar la **tabla de inferioridad numérica**
 
-### 2.2. Inferioridad Numérica (Regla del −1)
+### 3.2. Inferioridad Numérica (Regla del −1)
 
 Los criminales **SIEMPRE** actuarán con **1 participante menos** que la policía presente:
 
