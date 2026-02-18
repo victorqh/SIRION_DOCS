@@ -24,9 +24,9 @@ Permite añadir **información del entorno** o estado de la escena.
 
 ##  `/entorno `
 
-Sirve para solicitar la presencia de las fuerzas policiales.
+Añade detalles a la escena en tercera persona.
 
-Ejemplo de uso: _Si ves un robo, un tiroteo o una actividad sospechosa._
+Ejemplo de uso: `/entorno Se verían ingresando personas sospechosas a una tienda`
 
 ##  `/auxilio `
 

@@ -4,6 +4,10 @@ description: Delitos, multas y tiempos de cárcel oficiales
 
 # CÓDIGO PENAL POLICIAL
 
+{% hint style="info" %}
+**Nota:** Este código es una referencia detallada para la policía. Para las multas y tiempos de prisión aplicables en el servidor, consulta el [Código Penal General](../../normativa/codigo-penal.md).
+{% endhint %}
+
 ---
 
 ## Delitos Menores

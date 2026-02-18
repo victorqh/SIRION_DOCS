@@ -2,14 +2,14 @@
 
 ## � REQUISITOS
 
-* **Participantes:** 1 a 4 personas
+* **Participantes:** 1 a 3 personas
 * **Vehículos:** Mínimo 1 auto de 4 ruedas
-* **Policías en servicio:** Mínimo 3 activos
+* **Policías en servicio:** Mínimo 2 activos
 * **Armas:** Al menos 1 para amenazar
 
 ## ✅ CÓMO HACERLO
 
-1. **Verificar** que hay 3+ policías (usa `/polis`)
+1. **Verificar** que hay 2+ policías (usa `/polis`)
 2. **Planificar** ruta de escape
 3. **Entrar** con máscara/pasamontañas
 4. **Amenazar** al cajero y usar comando `/robar`
@@ -34,7 +34,7 @@ $3,000 - $6,000 (dividir entre participantes)
 
 ## ❌ PROHIBIDO
 
-* Robar sin 3+ policías
+* Robar sin 2+ policías
 * Robar la misma tienda repetidamente
 * Usar vehículos ilegales (tanques, aviones)
 * Matar al cajero sin razón
@@ -45,7 +45,7 @@ $3,000 - $6,000 (dividir entre participantes)
 
 ### Antes de Iniciar el Robo
 
-* [x] **Verificar policías en servicio:** Mínimo 3 policías activos en el servidor
+* [x] **Verificar policías en servicio:** Mínimo 2 policías activos en el servidor
   * Usa `/polis` o pregunta en Discord antes de comenzar
 * [x] **Planificar ruta de escape:** Conoce calles, atajos, lugares para esconderse
 * [x] **Designar roles:** Quién negocia, quién conduce, quién vigila
@@ -142,7 +142,7 @@ Grita: "Esto es un asalto, manos arriba!"
 
 ### ❌ NO Permitido
 
-* Robar con menos de 3 policías en servicio
+* Robar con menos de 2 policías en servicio
 * Robar la misma tienda repetidamente (farm)
 * Usar vehículos ilegales (tanques, aviones, motos voladoras)
 * Matar al cajero sin razón (solo si se resiste o hay amenaza real)

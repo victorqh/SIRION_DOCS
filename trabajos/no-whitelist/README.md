@@ -23,7 +23,7 @@ Trabajos **sin aplicación** que puedes hacer **inmediatamente** para ganar dine
 **Para rol pasivo:** Pescador, Taxista
 **Para nuevos:** Basurero, Leñador
 
-Ver [TRABAJOS BÁSICOS](page-1.md) para lista completa con salarios.
+Ver [TRABAJOS BÁSICOS](trabajos-basicos.md) para lista completa con salarios.
 
 {% hint style="success" %}
 Usa estos trabajos para ganar dinero mientras acumulas horas para aplicar a [trabajos whitelist](../whitelist/).

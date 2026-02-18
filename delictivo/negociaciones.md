@@ -64,7 +64,7 @@ Si alguna parte rompe la negociación sin razón válida:
 * La policía asignará **un único negociador**, que no podrá ser cambiado salvo por un motivo lógico de rol.
 * El negociador policial debe intentar resolver la situación pacíficamente.
 * Prioridad #1: **La vida de los rehenes**.
-* Puede ofrecer alternativas y contraprouestas razonables.
+* Puede ofrecer alternativas y contrapropuestas razonables.
 
 ## 📜 NORMAS DE NEGOCIACIÓN
 

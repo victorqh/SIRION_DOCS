@@ -12,6 +12,6 @@ description: Requisitos para crear y interpretar tu personaje
 ## INTERPRETACIÓN DE ROL
 
 * [x] El comportamiento de tu personaje debe ser consistente con su historia y personalidad.
-* [x] Deberás actuar con realismo, respetando los principios básicos del rol .
+* [x] Deberás actuar con realismo, respetando los principios básicos del rol.
 * [x] Cada acción debe tener una justificación lógica dentro del contexto del servidor.
 * [x] Se debe respetar el desarrollo de relaciones entre personajes, **evitando forzar** vínculos de manera antinatural.

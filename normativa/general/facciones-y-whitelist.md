@@ -154,32 +154,32 @@ Esta regla aplica al inicio del evento. Si la policía recibe refuerzos durante 
 
 ### Policía
 
-El armamento está estrictamente regulado por rango. Ver [normativa de policía](../../trabajos/whitelist/policia.md) para detalles.
+El armamento está estrictamente regulado por rango. Ver [normativa de policía](../../policia/README.md) para detalles.
 
 ---
 
 ## Robo de Equipo Policial
 
 {% hint style="danger" %}
-**Regla Importante:** Está permitido robar ciertas armas policiales, pero **SOLO para venta al staff delictivo**.
+**Regla Importante:** Solo está permitido robar **munición y chalecos** de los oficiales de policía.
 {% endhint %}
 
-### Armas Robables
+### Equipamiento Robable
 
-* Pistolas de servicio
-* SMG (subfusiles)
-* Escopetas
+* ✅ Munición
+* ✅ Chalecos
 
-### Restricción Crítica
+### Equipamiento NO Robable
 
-**NUNCA** para uso propio de la banda. El uso de armas policiales robadas por parte de bandas resultará en sanción inmediata.
+* ❌ Armas oficiales (SMG, escopetas, pistolas de combate)
+* ❌ Radios y comunicación
+* ❌ Tazer, porra, linterna
+* ❌ Tableta de trabajo, cámaras, llaves policiales
+* ❌ Evidencia y documentos
 
-### Proceso Correcto
-
-1. Robar arma durante un enfrentamiento
-2. Contactar al staff delictivo
-3. Vender el arma al precio establecido
-4. El staff gestiona la devolución o destrucción
+{% hint style="warning" %}
+**Importante:** Si un criminal intenta robar equipamiento prohibido, se reportará inmediatamente al staff.
+{% endhint %}
 
 ---
 

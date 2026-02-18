@@ -17,8 +17,10 @@ La plantilla de EMS está compuesta por los siguientes rangos en orden ascendent
 | 3 | **Interno** | Médico en formación intermedia |
 | 4 | **Residente** | Médico completando residencia |
 | 5 | **Especialista** | Médico con especialización |
-| 6 | **Jefe/a** | Subjefatura del EMS |
-| 7 | **Director** | Máxima autoridad del EMS |
+| 6 | **Cirujano** | Cirujano especializado (cargo directivo) |
+| 7 | **Subjefe** | Subjefatura del EMS |
+| 8 | **Jefe** | Jefatura del EMS |
+| 9 | **Director** | Máxima autoridad del EMS |
 
 {% hint style="info" %}
 **Nota:** Actualmente existen dos ramas: **Cirugías Especialistas** y **EMS de Salud Ocupacional**.
@@ -65,7 +67,15 @@ La plantilla de EMS está compuesta por los siguientes rangos en orden ascendent
 * **Responsabilidades:** Supervisión de residentes
 * **Autorización:** Rol de médico negro (si aplica)
 
-### 6. Jefe/a
+### 6. Cirujano
+
+* **Nivel:** Experto quirúrgico
+* **Funciones:** Cirugías complejas y procedimientos especializados
+* **Responsabilidades:** Supervisión quirúrgica, formación avanzada
+* **Autoridad:** Cargo directivo, investigación de corrupción interna
+* **Equipamiento:** Radio, tablet, porra
+
+### 7. Subjefe
 
 * **Nivel:** Subjefatura
 * **Funciones:** Gestión operativa del EMS
@@ -73,7 +83,15 @@ La plantilla de EMS está compuesta por los siguientes rangos en orden ascendent
 * **Autoridad:** Decisiones administrativas importantes
 * **Equipamiento:** Tazer, porra, linterna, helicóptero
 
-### 7. Director
+### 8. Jefe
+
+* **Nivel:** Jefatura
+* **Funciones:** Gestión estratégica del EMS
+* **Responsabilidades:** Supervisión de toda la facción
+* **Autoridad:** Decisiones de alto nivel, sanciones
+* **Equipamiento:** Tazer, porra, linterna, helicóptero
+
+### 9. Director
 
 * **Nivel:** Máxima autoridad
 * **Funciones:** Dirección total del EMS
