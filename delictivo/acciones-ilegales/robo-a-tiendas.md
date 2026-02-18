@@ -80,7 +80,7 @@ No eres invencible. Aceptar la derrota con deportividad genera mejor rol que for
 
 ## Recompensa
 
-**$3,000 – $6,000** (se divide entre participantes). Varía según tienda y hora del día.
+**$30,000 – $60,000** (se divide entre participantes). Varía según tienda y hora del día.
 
 ---
 
