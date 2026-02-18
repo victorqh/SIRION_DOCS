@@ -1,224 +1,115 @@
 # ROBO A TIENDAS
 
-## � REQUISITOS
+---
 
-* **Participantes:** 1 a 3 personas
-* **Vehículos:** Mínimo 1 auto de 4 ruedas
-* **Policías en servicio:** Mínimo 2 activos
-* **Armas:** Al menos 1 para amenazar
+## Requisitos
 
-## ✅ CÓMO HACERLO
-
-1. **Verificar** que hay 2+ policías (usa `/polis`)
-2. **Planificar** ruta de escape
-3. **Entrar** con máscara/pasamontañas
-4. **Amenazar** al cajero y usar comando `/robar`
-5. **Decidir:** ¿Matar o no matar al cajero?
-6. **Escapar** con el dinero
-
-## ⚠️ CONSECUENCIAS
-
-### SI MATAS AL CAJERO
-* Policía usará **fuerza letal** desde el inicio
-* Tienes 30 segundos para prepararte
-* Cargos: Homicidio + Robo ($8,000 + 30 min)
-
-### SI NO LO MATAS
-* Puedes **negociar** si te rodean
-* Opción de tomar rehén
-* Cargos: Solo robo ($2,000 + 10 min)
-
-## 💰 RECOMPENSA
-
-$3,000 - $6,000 (dividir entre participantes)
-
-## ❌ PROHIBIDO
-
-* Robar sin 2+ policías
-* Robar la misma tienda repetidamente
-* Usar vehículos ilegales (tanques, aviones)
-* Matar al cajero sin razón
+| Concepto | Detalle |
+|----------|---------|
+| **Participantes** | 1 a 3 personas |
+| **Policías en servicio** | Mínimo 2 activos |
+| **Vehículo** | Mínimo 1 auto de 4 ruedas |
+| **Armas** | Al menos 1 arma corta para amenazar |
+| **Tiendas válidas** | 24/7, LTD, gasolineras con cajero |
+| **Frecuencia** | No robar la misma tienda 2 veces en menos de 2 h |
 
 {% hint style="warning" %}
-**Importante:** No hagas "robo spam". Espacia tus actividades ilegales para mejor rol.
+Si no hay 2 policías en servicio, el robo **no puede realizarse**. Aplica la regla de inferioridad numérica de la [Normativa de Bandas](../principios-generales.md).
 {% endhint %}
 
-### Antes de Iniciar el Robo
+---
 
-* [x] **Verificar policías en servicio:** Mínimo 2 policías activos en el servidor
-  * Usa `/polis` o pregunta en Discord antes de comenzar
-* [x] **Planificar ruta de escape:** Conoce calles, atajos, lugares para esconderse
-* [x] **Designar roles:** Quién negocia, quién conduce, quién vigila
-* [x] **Tener historia de fondo:** Tu personaje debe tener motivos para robar (economía, deudas, estilo de vida criminal)
+## Preparación
 
-### Zonas y Horarios
+Antes de actuar, cada integrante debe:
 
-* **Horario recomendado:** Noche (menos testigos NPCs)
-* **Tiendas permitidas:** 24/7, LTD, gasolineras con cajero
-* **Frecuencia:** No puedes robar la misma tienda dos veces en menos de 2 horas
+* [x] Verificar policías activos
+* [x] Planificar ruta de escape (calles, atajos, puntos de cambio de vehículo)
+* [x] Designar roles: quién entra, quién conduce, quién vigila
+* [x] Tener un motivo IC para robar (deudas, estilo de vida criminal, etc.)
 
-## 🎭 DURANTE EL ROBO
+---
 
-### Fase 1: Entrada e Intimidación
+## Procedimiento
 
-```
-/me entra a la tienda con pasamontañas puesto
-/me saca su pistola y apunta al cajero
-Grita: "Esto es un asalto, manos arriba!"
-/do El cajero levanta las manos temblando
-/me se acerca al mostrador manteniendo el arma apuntando
-"Dame el dinero de la caja registradora, ahora!"
-```
+{% stepper %}
+{% step %}
+### Entrada
 
-### Fase 2: Obtención del Dinero
+Entra con máscara/pasamontañas. Amenaza al cajero con arma y usa el comando `/robar`.
+{% endstep %}
 
-* Usa `/robar` o el comando del servidor para iniciar el atraco
-* **Espera realista:** El cajero tarda en abrir la caja (30-60 segundos de rol)
-* Durante este tiempo, vigila la puerta y mantén el control de la situación
+{% step %}
+### Espera
 
-### Fase 3: Decisiones Críticas
+El cajero tarda 30-60 segundos en abrir la caja. Mantén el control de la situación y vigila la puerta.
+{% endstep %}
 
-#### ⚠️ SI MATAS AL TENDERO
+{% step %}
+### Decisión sobre el cajero
 
-* La policía recibirá alerta automática de "tiroteo en progreso"
-* Estarán autorizados a usar **fuerza letal** desde el inicio
-* Tendrás **30 segundos** para prepararte antes de que lleguen
-* **Consecuencias:** Cargos de homicidio + robo (prisión más larga)
+**Si NO matas al cajero:** alerta normal de robo; puedes negociar si te rodean o tomar rehén. Cargos menores.
 
-#### ✅ SI NO MATAS AL TENDERO
+**Si matas al cajero:** alerta de tiroteo; la policía usará **fuerza letal** desde el inicio. Cargos de homicidio + robo.
+{% endstep %}
 
-* Alerta normal de robo a la policía
-* Puedes **negociar** si te rodean
-* Posibilidad de rendición y reducción de cargos
-* Opción de tomar al cajero como rehén (ver sección negociación)
+{% step %}
+### Escape
 
-### Fase 4: Escape
+Sal al vehículo de escape. Puedes cambiar de vehículo, esconderte en interiores o disfrazarte.
+{% endstep %}
+{% endstepper %}
 
-```
-/me guarda el dinero en su mochila rápidamente
-/me corre hacia el vehículo de escape
-/do El motor ya está encendido, el conductor espera
-/me sube al auto y grita: "¡Vamos, vamos!"
-(Conducción evasiva, cambio de vehículos, esconderse)
-```
+---
 
-## 🚔 INTERACCIÓN CON LA POLICÍA
+## Si llega la policía
 
-### Si la Policía Llega Durante el Robo
+Evalúa la situación y elige:
 
-1. **Evalúa la situación:** ¿Cuántos policías? ¿Tienen posición ventajosa?
-2. **Opciones:**
-   * **Huir inmediatamente** (si tienes ventaja)
-   * **Tomar rehén** (cajero o cliente) y negociar
-   * **Rendirte** (si estás superado en número)
+| Opción | Cuándo usarla |
+|--------|---------------|
+| **Huir** | Tienes ventaja y ruta libre |
+| **Tomar rehén y negociar** | Estás rodeado — sigue la normativa de [Negociaciones](../negociaciones.md) |
+| **Rendirte** | Estás superado en número |
 
-### Negociación con Rehén
+{% hint style="info" %}
+No eres invencible. Aceptar la derrota con deportividad genera mejor rol que forzar un escape imposible.
+{% endhint %}
 
-* Seguir normativa de [NEGOCIACIONES](../negociaciones.md)
-* Demandas razonables: Vehículo, tiempo de ventaja, paso libre
-* Liberar rehén según acuerdo
+---
 
-### Si Te Capturan
+## Consecuencias legales
 
-* **No eres invencible:** Acepta la derrota con deportividad
-* **Cargos esperados:** Robo a mano armada ($2,000 multa + 10 min prisión)
-* **Si mataste al cajero:** Homicidio agravado ($8,000 + 30 min)
-* **Si disparaste a policías:** Tentativa de homicidio a funcionario público ($4,000 + 15 min por oficial)
+| Delito | Multa | Tiempo |
+|--------|:-----:|--------|
+| Robo a tienda (sin violencia) | $1,500 | 8 min |
+| Robo a mano armada | $2,000 | 10 min |
+| Robo + homicidio del cajero | $8,000 | 30 min |
+| Robo + toma de rehenes | $7,000 | 25 min |
+| Robo + agresión a oficial | $6,000 | 20 min |
+| Robo + intento de homicidio a oficial | $9,000 | 35 min |
 
-## 💰 RECOMPENSAS
+_Las condenas se acumulan si cometes múltiples delitos._
 
-### Dinero Obtenido
+---
 
-* **Robo exitoso sin muertes:** $3,000 - $6,000
-* **Se divide entre los participantes**
-* Cantidad varía según tienda y hora del día
+## Recompensa
 
-### Riesgos vs Beneficios
+**$3,000 – $6,000** (se divide entre participantes). Varía según tienda y hora del día.
 
-* Mayor riesgo = Mayor recompensa (pero también mayor condena)
-* Robar de noche con planificación > Robar de día impulsivamente
+---
 
-## ⚠️ PROHIBICIONES
-
-### ❌ NO Permitido
+## Prohibiciones
 
 * Robar con menos de 2 policías en servicio
-* Robar la misma tienda repetidamente (farm)
+* Robar la misma tienda repetidamente (farm / "robo spam")
 * Usar vehículos ilegales (tanques, aviones, motos voladoras)
-* Matar al cajero sin razón (solo si se resiste o hay amenaza real)
-* Disparar a policías desde adentro sin advertencia
+* Matar al cajero sin motivo IC
+* Disparar a policías desde adentro sin advertencia previa
 * Salir y volver a entrar para "resetear" el robo
-
-### ✅ Permitido
-
-* Cambiar de vehículo durante escape
-* Esconderse en interiores después del robo
-* Solicitar ayuda de otros criminales (dentro del límite de 4 personas)
-* Disfrazarte para que no te reconozcan después
-
-## 📊 CONSECUENCIAS LEGALES
-
-| Delito                                    | Multa ($) | Tiempo   |
-| ----------------------------------------- | :-------: | -------- |
-| Robo a tienda (sin violencia)             |   1,500   | 8 min    |
-| Robo a mano armada                        |   2,000   | 10 min   |
-| Robo + homicidio del cajero               |   8,000   | 30 min   |
-| Robo + toma de rehenes                    |   7,000   | 25 min   |
-| Robo + agresión a oficial                 |   6,000   | 20 min   |
-| Robo + intento de homicidio a oficial     |   9,000   | 35 min   |
-
-_*Las condenas se acumulan. Si cometes múltiples delitos, se suman._
-
-## 🎯 CONSEJOS PARA UN BUEN ROL
-
-1. **No seas predecible:** Cambia tu modus operandi, tiendas, horarios
-2. **Crea una historia:** ¿Por qué tu personaje roba? ¿Necesidad? ¿Codicia? ¿Venganza?
-3. **Interactúa con el entorno:** Habla con el cajero, nota detalles, improvisa
-4. **Acepta fracasos:** No todos los robos salen bien, y eso crea mejor rol
-5. **No hagas "robo spam":** Espacia tus actividades ilegales para que sean más significativas
-
-## 📝 EJEMPLO DE ROBO COMPLETO
-
-### Preparación (15 minutos antes)
-
-```
-Criminal 1: "Oye, necesito dinero para pagar mi deuda con los prestamistas"
-Criminal 2: "Conozco una tienda alejada, poca vigilancia policial"
-Criminal 1: "Ok, revisemos cuántos polis hay en servicio"
-(Verifican que hay 4 policías activos)
-Criminal 2: "Perfecto, vamos con mi auto. Tú entras, yo espero fuera"
-```
-
-### Ejecución
-
-```
-Criminal 1: /me estaciona a una cuadra de la tienda
-Criminal 1: /me se pone un pasamontañas y guantes
-Criminal 1: /me camina casualmente hacia la entrada
-Criminal 1: /me entra rápidamente y saca su arma
-Criminal 1: "Esto es un atraco, dame el dinero y nadie sale herido"
-/do El cajero asustado abre la caja con manos temblorosas
-Criminal 1: /me toma el dinero y lo guarda en su mochila
-Criminal 1: "Quédate ahí y no llames a la policía hasta que me vaya"
-Criminal 1: /me sale corriendo hacia el vehículo
-```
-
-### Persecución
-
-```
-(La policía llega y comienza persecución)
-Criminal 2: /me conduce por callejones y cambia de ruta constantemente
-Criminal 1: "¡Gira a la izquierda, conozco un estacionamiento!"
-Criminal 2: /me entra al estacionamiento subterráneo
-/do El vehículo se pierde de vista de la policía
-(Esperan 10 minutos escondidos, luego salen caminando como civiles)
-```
-
-{% hint style="success" %}
-**Tip:** Un robo bien ejecutado no siempre es el que escapa limpiamente. A veces, ser capturado y tener una escena de interrogatorio policial crea mejor roleplay que huir exitosamente.
-{% endhint %}
+* Más de 3 participantes criminales
 
 {% hint style="warning" %}
-**Importante:** Si la policía no puede responder porque están en otra emergencia, espera. No aproveches para hacer "robo gratis". El objetivo es el rol, no solo el dinero.
+Espacia tus actividades ilegales. El objetivo es el rol, no solo el dinero. Si la policía está ocupada en otra emergencia, **espera** — no aproveches para hacer "robo gratis".
 {% endhint %}
 

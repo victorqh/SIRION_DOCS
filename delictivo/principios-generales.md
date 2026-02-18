@@ -251,12 +251,4 @@ Ver [Régimen Disciplinario](../normativa/general/regimen-disciplinario.md) para
 
 ## 12. Evolución Delictiva
 
-{% hint style="success" %}
 Las **mafias y carteles** podrán habilitarse en el futuro como evolución natural de las bandas, bajo normativa independiente aprobada por el staff.
-{% endhint %}
-
----
-
-{% hint style="info" %}
-Recuerda: las acciones ilegales tienen consecuencias y debes estar preparado para afrontarlas dentro del rol.
-{% endhint %}
