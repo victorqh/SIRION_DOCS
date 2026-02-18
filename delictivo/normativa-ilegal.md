@@ -27,7 +27,49 @@ El rol repetitivo, vacío o sin narrativa será observado y sancionado. El objet
 
 ---
 
-## 2. Robos y Eventos Criminales
+## 2. Ambientación y Zonas
+
+El servidor está ambientado en **Nueva York**. Las facciones disponibles están basadas en bandas históricas del roleplay, con ubicaciones de barrio ya definidas.
+
+### 2.1. Zonas Rojas (Barrios)
+
+Los barrios de cada banda son **zona roja**. La muerte en estas zonas está sometida a **PKT** (Player Kill Total).
+
+| Regla | Detalle |
+|-------|---------|
+| **PKT en zona** | Toda muerte en zona roja es PKT |
+| **Información post-caída** | La persona abatida en zona será informada por entorno de lo sucedido previamente |
+| **Disparar en vehículos** | En zona roja se puede disparar a alguien **dentro de un carro** a matar |
+| **Pasajeros armados** | Todos los ocupantes del vehículo pueden disparar **excepto el conductor** |
+| **Respetar la zona** | El tiroteo debe mantenerse en la zona donde se inició — **prohibido abandonar la zona de combate** |
+| **Vehículo dañado** | Un auto solo puede circular con **máximo 1 llanta pinchada** (2 = inutilizado) |
+
+### 2.2. Zona Industrial
+
+* Se puede **catear en cualquier momento** a un caído
+* La dinámica es **entrar a ganar o morir** — el ganador se determina previo GG
+
+### 2.3. Zonas de Farmeo
+
+* Solo se permiten **robos**
+* **No se obtiene información relevante** de las personas en estas zonas
+
+### 2.4. Muelle (Zona de Venta)
+
+* Se permite **tiroteo durante la hora de venta** únicamente
+* Cuando la hora de venta termina → **alto al fuego obligatorio**
+* La persona caída en el muelle puede perder:
+  * Munición
+  * Armas
+  * Bolsas de marihuana
+
+{% hint style="warning" %}
+Las zonas rojas permiten alargar e intensificar los roles, pero siempre dentro de la normativa. No se permite toxicidad ni abuso de estas reglas.
+{% endhint %}
+
+---
+
+## 3. Robos y Eventos Criminales
 
 ### 2.1. Requisitos generales
 
@@ -58,7 +100,7 @@ Ver guías detalladas de cada robo en [Acciones Ilegales](acciones-ilegales/READ
 
 ---
 
-## 3. Secuestros
+## 4. Secuestros
 
 Para secuestrar se requieren los siguientes mínimos en servicio:
 
@@ -70,7 +112,7 @@ Para secuestrar se requieren los siguientes mínimos en servicio:
 
 ---
 
-## 4. Interacción con EMS (Post-Rol)
+## 5. Interacción con EMS (Post-Rol)
 
 Si ganas un enfrentamiento:
 
@@ -84,7 +126,7 @@ Si ganas un enfrentamiento:
 
 ---
 
-## 5. Finalización del Rol (GG)
+## 6. Finalización del Rol (GG)
 
 Cuando **todos los integrantes del bando opuesto** caigan abatidos:
 
@@ -98,7 +140,7 @@ Evitar toxicidad, discusiones y conflictos OOC tras el rol. Ganar o perder es pa
 
 ---
 
-## 6. Prohibiciones Generales
+## 7. Prohibiciones Generales
 
 | Prohibición | Descripción |
 |-------------|-------------|
