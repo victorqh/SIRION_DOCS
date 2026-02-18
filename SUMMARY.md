@@ -56,7 +56,7 @@
 
 ## 🔫 DELICTIVO
 
-* [PRINCIPIOS GENERALES](delictivo/principios-generales.md)
+* [NORMATIVA DE BANDAS](delictivo/principios-generales.md)
 * [ACCIONES ILEGALES](delictivo/acciones-ilegales/README.md)
   * [ROBO A TIENDAS](delictivo/acciones-ilegales/robo-a-tiendas.md)
 * [NEGOCIACIONES](delictivo/negociaciones.md)
