@@ -14,7 +14,7 @@
 | **Frecuencia** | No robar la misma tienda 2 veces en menos de 2 h |
 
 {% hint style="warning" %}
-Si no hay 2 policías en servicio, el robo **no puede realizarse**. Aplica la regla de inferioridad numérica de la [Normativa de Bandas](../principios-generales.md).
+Si no hay 2 policías en servicio, el robo **no puede realizarse**. Aplica la regla de inferioridad numérica de la [Normativa Ilegal](../normativa-ilegal.md).
 {% endhint %}
 
 ---
