@@ -78,21 +78,6 @@ No eres invencible. Aceptar la derrota con deportividad genera mejor rol que for
 
 ---
 
-## Consecuencias legales
-
-| Delito | Multa | Tiempo |
-|--------|:-----:|--------|
-| Robo a tienda (sin violencia) | $1,500 | 8 min |
-| Robo a mano armada | $2,000 | 10 min |
-| Robo + homicidio del cajero | $8,000 | 30 min |
-| Robo + toma de rehenes | $7,000 | 25 min |
-| Robo + agresión a oficial | $6,000 | 20 min |
-| Robo + intento de homicidio a oficial | $9,000 | 35 min |
-
-_Las condenas se acumulan si cometes múltiples delitos._
-
----
-
 ## Recompensa
 
 **$3,000 – $6,000** (se divide entre participantes). Varía según tienda y hora del día.
